@@ -5,6 +5,8 @@ That implies answering numerous questions or building tools like [relint](https:
 
 Most of my efforts gravitate around the Python and Django community, though my most famous invention remains a Java application called [MusicBeam](https://musicbeam.org).
 
+<img alt="codingjoe's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingjoe&count_private=true" align="right">
+
 Thank you for supporting me and my family to create, support and maintain tools like:
 
 - [Django](https://github.com/django/django/commits/master?author=codingjoe)
@@ -20,4 +22,4 @@ Thank you for supporting me and my family to create, support and maintain tools 
 - [python-ssdp](https://github.com/codingjoe/python-ssdp)
 ...and hopefully may more to come!
 
-![codingjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingjoe&count_private=true)
+
