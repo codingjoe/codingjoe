@@ -1,4 +1,4 @@
-### [Consider sponsoring my open-source efforts ❤️](https://github.com/sponsors/codingjoe)
+### [Consider supporting my open-source efforts ❤️](https://github.com/sponsors/codingjoe)
 
 Hi! I'm a Berlin-based open-source developer and CTO. Most of my work is dedicated peoples lives easier, including developers.
 That implies answering numerous questions or building tools like [relint](https://github.com/codingjoe/relint) or maintaining and supporting other great community packages.
@@ -21,6 +21,3 @@ Thank you for supporting me and my family to create, support and maintain tools 
 - [relint](https://github.com/codingjoe/relint)
 - [python-ssdp](https://github.com/codingjoe/python-ssdp)
 ...and hopefully may more to come!
-
-
-Follow me on <a rel="me" href="https://fosstodon.org/@codingjoe">Mastodon</a>?!
