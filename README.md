@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Karajan](https://github.com/codingjoe/karajan)<br>👯 I’m looking to collaborate on **applied AI**<br>🤝 I’m looking for help with **parenting**<br>🌱 I’m currently learning **Italian**<br>💬 Ask me about **Django**<br>⚡ Fun fact: _I like trains_
+🔭 I’m currently working on [Karajan](https://github.com/codingjoe/karajan)<br>👯 I’m looking to collaborate on **applied AI**<br>🤝 I’m looking for help with **parenting**<br>🌱 I’m currently learning **Italian**<br>💬 Ask me about **Django**<br>⚡ Fun fact: _[I like trains](https://youtu.be/5DjOL2we8ko?si=HBRIkz7jgviNVCHP)_
 
 
 ## 🌐 Socials:
