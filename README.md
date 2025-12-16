@@ -1,4 +1,6 @@
 # 💫 About Me:
+🎷 I'm a [DSF individual member](https://www.djangoproject.com/foundation/individual-members/)<br>
+🐍 I'm a [PSF contributing member](https://psfmember.org/)<br>
 🔭 I’m currently working on [The Box – Signature Edition](https://github.com/codingjoe/the-box)<br>👯 I’m looking to collaborate on **applied AI**<br>🤝 I’m looking for help with **parenting**<br>🌱 I’m currently learning **Italian**<br>💬 Ask me about **Django**<br>⚡ Fun fact: _[I like trains](https://youtu.be/5DjOL2we8ko?si=HBRIkz7jgviNVCHP)_
 
 
