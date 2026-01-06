@@ -18,7 +18,7 @@ I am a member of the Python Software Foundation and maintainer of several Python
 
 ### Django
 
-I am a member of the Django Software Foundation, frequent contributor to the Django project, and maintainer of several Django packages:
+I am a member of the Django Software Foundation, [frequent contributor](https://github.com/django/django/commits/main/?author=codingjoe), and maintainer of several Django packages:
 
 | Name                       | Repo                                                                                                      | Package                                                                                 | Python Version Support                                                                                      | Django Version support                                                                                                    | License                                                                       | Downloads (last month)                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
