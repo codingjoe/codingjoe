@@ -67,7 +67,7 @@ I am a member of the Django Software Foundation, [frequent contributor](https://
 [django-dynamic-filenames]: https://github.com/codingjoe/django-dynamic-filenames
 [django-esm]: https://github.com/codingjoe/django-esm
 [django-health-check]: https://github.com/codingjoe/django-health-check
-[django-hijack]: https://github.com/django-hiack/django-hijack
+[django-hijack]: https://github.com/django-hijack/django-hijack
 [django-mail-auth]: https://github.com/codingjoe/django-mail-auth
 [django-pictures]: https://github.com/codingjoe/django-pictures
 [django-s3file]: https://github.com/codingjoe/django-s3file
