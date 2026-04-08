@@ -32,6 +32,7 @@ I am a member of the Python Software Foundation and maintainer of several Python
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [relint]       | ![](https://img.shields.io/github/stars/codingjoe/relint?style=for-the-badge&logo=GitHub&label=&logoColor=white)       | ![](https://img.shields.io/pypi/v/relint?style=for-the-badge&logo=pypi&label=&logoColor=white)       | ![](https://img.shields.io/pypi/pyversions/relint?style=for-the-badge&logo=Python&label=&logoColor=white)       | ![](https://img.shields.io/pypi/l/relint?style=for-the-badge&label=)       | ![](https://img.shields.io/pypi/dm/relint?style=for-the-badge&logo=pypi&label=&logoColor=white)       |
 | [ssdp]         | ![](https://img.shields.io/github/stars/codingjoe/ssdp?style=for-the-badge&logo=GitHub&label=&logoColor=white)         | ![](https://img.shields.io/pypi/v/ssdp?style=for-the-badge&logo=pypi&label=&logoColor=white)         | ![](https://img.shields.io/pypi/pyversions/ssdp?style=for-the-badge&logo=Python&label=&logoColor=white)         | ![](https://img.shields.io/pypi/l/ssdp?style=for-the-badge&label=)         | ![](https://img.shields.io/pypi/dm/ssdp?style=for-the-badge&logo=pypi&label=&logoColor=white)         |
+| [VoIP]         | ![](https://img.shields.io/github/stars/codingjoe/VoIP?style=for-the-badge&logo=GitHub&label=&logoColor=white)         | ![](https://img.shields.io/pypi/v/VoIP?style=for-the-badge&logo=pypi&label=&logoColor=white)         | ![](https://img.shields.io/pypi/pyversions/VoIP?style=for-the-badge&logo=Python&label=&logoColor=white)         | ![](https://img.shields.io/pypi/l/VoIP?style=for-the-badge&label=)         | ![](https://img.shields.io/pypi/dm/VoIP?style=for-the-badge&logo=pypi&label=&logoColor=white)         |
 | [flit-gettext] | ![](https://img.shields.io/github/stars/codingjoe/flit-gettext?style=for-the-badge&logo=GitHub&label=&logoColor=white) | ![](https://img.shields.io/pypi/v/flit-gettext?style=for-the-badge&logo=pypi&label=&logoColor=white) | ![](https://img.shields.io/pypi/pyversions/flit-gettext?style=for-the-badge&logo=Python&label=&logoColor=white) | ![](https://img.shields.io/pypi/l/flit-gettext?style=for-the-badge&label=) | ![](https://img.shields.io/pypi/dm/flit-gettext?style=for-the-badge&logo=pypi&label=&logoColor=white) |
 
 ### JavaScript
@@ -40,6 +41,12 @@ I am a member of the Python Software Foundation and maintainer of several Python
 | ----------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [esupgrade] | ![](https://img.shields.io/github/stars/codingjoe/esupgrade?style=for-the-badge&logo=GitHub&label=&logoColor=white) | ![](https://img.shields.io/npm/v/esupgrade?style=for-the-badge&logo=npm&label=) | ![](https://img.shields.io/node/v/esupgrade?style=for-the-badge&logo=JavaScript&label=Node) | ![](https://img.shields.io/npm/l/esupgrade?style=for-the-badge&label=) | ![](https://img.shields.io/npm/dm/esupgrade?style=for-the-badge&logo=npm&label=) |
 | [esimport]  | ![](https://img.shields.io/github/stars/codingjoe/esimport?style=for-the-badge&logo=GitHub&label=&logoColor=white)  | ![](https://img.shields.io/npm/v/esimport?style=for-the-badge&logo=npm&label=)  | ![](https://img.shields.io/node/v/esupgrade?style=for-the-badge&logo=JavaScript&label=Node) | ![](https://img.shields.io/npm/l/esimport?style=for-the-badge&label=)  | ![](https://img.shields.io/npm/dm/esimport?style=for-the-badge&logo=npm&label=)  |
+
+### Hardware & Obscure
+
+| Name        | Repo  | Description |
+| --- | --- | --- |
+| [DP100] | ![](https://img.shields.io/github/stars/codingjoe/esupgrade?style=for-the-badge&logo=GitHub&label=&logoColor=white) | A web interface for the DP100 digital power supply. |
 
 ## 🌐 Socials:
 
@@ -79,3 +86,5 @@ I am a member of the Python Software Foundation and maintainer of several Python
 [joeflow]: https://github.com/codingjoe/joeflow
 [relint]: https://github.com/codingjoe/relint
 [ssdp]: https://github.com/codingjoe/ssdp
+[DP100]: https://github.com/codingjoe/DP100-WebApp
+[VoIP]: https://github.com/codingjoe/VoIP
