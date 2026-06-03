@@ -8,7 +8,7 @@
 
 ![Sponsors](https://django.the-box.sh/sponsors/codingjoe/.github.svg)
 
-## Packages
+## Packages [![star-rank](https://gitranks.com/api/badge/v2/codingjoe?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2)](https://gitranks.com/profile/codingjoe)
 
 ### Django
 
