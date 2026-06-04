@@ -50,7 +50,8 @@ I am a member of the Python Software Foundation and maintainer of several Python
 
 | Name        | Repo  | Description |
 | --- | --- | --- |
-| [DP100] | ![](https://img.shields.io/github/stars/codingjoe/esupgrade?style=for-the-badge&logo=GitHub&label=&logoColor=white) | A web interface for the DP100 digital power supply. |
+| [MusicBeam] | ![](https://img.shields.io/github/stars/codingjoe/DP100-WebApp?style=for-the-badge&logo=GitHub&label=&logoColor=white) | Multi platform software that allows using a projector as a RGB laser. |
+| [DP100] | ![](https://img.shields.io/github/stars/codingjoe/DP100-WebApp?style=for-the-badge&logo=GitHub&label=&logoColor=white) | A web interface for the DP100 digital power supply. |
 
 ## 🌐 Socials:
 
@@ -90,5 +91,6 @@ I am a member of the Python Software Foundation and maintainer of several Python
 [joeflow]: https://github.com/codingjoe/joeflow
 [relint]: https://github.com/codingjoe/relint
 [ssdp]: https://github.com/codingjoe/ssdp
+[MusicBeam]: https://github.com/codingjoe/MusicBeam
 [DP100]: https://github.com/codingjoe/DP100-WebApp
 [VoIP]: https://github.com/codingjoe/VoIP
