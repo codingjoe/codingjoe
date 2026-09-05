@@ -64,7 +64,7 @@ I am a member of the Python Software Foundation and maintainer of several Python
 ![](https://nirzak-streak-stats.vercel.app/?user=codingjoe&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingjoe&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=codingjoe&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=codingjoe&no-frame=true&no-bg=true)
 
 ![](https://github-contributor-stats.vercel.app/api?username=codingjoe&limit=10&combine_all_yearly_contributions=true)
 
