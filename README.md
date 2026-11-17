@@ -77,7 +77,7 @@ I am a member of the Python Software Foundation and maintainer of several Python
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[threadmill]: https://github.com/codingjoe/thradmill
+[threadmill]: https://github.com/codingjoe/threadmill
 [django-crontask]: https://github.com/codingjoe/django-crontask
 [django-dynamic-filenames]: https://github.com/codingjoe/django-dynamic-filenames
 [django-esm]: https://github.com/codingjoe/django-esm
